@@ -2,7 +2,7 @@ Spring core 5.2:
 required jars
 
 	1..org-apache-commons-logging.jar
-	2.. spring-beans-5.2.9.RELEASE.jar
+	2..spring-beans-5.2.9.RELEASE.jar
 	3..spring-context-5.2.9.RELEASE.jar
 	4..spring-core-5.2.9.RELEASE.jar
 	5..spring-expression-5.2.9.RELEASE.jar
@@ -13,7 +13,8 @@ download url-https://repo1.maven.org/maven2/org/springframework/
 	3.https://repo1.maven.org/maven2/org/springframework/spring-beans/5.2.9.RELEASE/
 	4.https://repo1.maven.org/maven2/org/springframework/spring-context/5.2.9.RELEASE/
 	5.https://repo1.maven.org/maven2/org/springframework/spring-expression/5.2.9.RELEASE/
-	=================================================================================================
+===============================================================================================================
 CREATING A SPRING APPLICATION:::
 	(1) create a pojo class(spring bean)
 	(2) create a spring configuration file
+	
